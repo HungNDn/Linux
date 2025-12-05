@@ -1,4 +1,4 @@
-# Device Tree Overview
+# Device Tree
 
 ## 1. Basic Device Tree Syntax (Cú pháp cơ bản DT)
 
